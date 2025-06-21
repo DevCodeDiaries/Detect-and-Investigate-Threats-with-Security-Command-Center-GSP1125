@@ -21,9 +21,9 @@ Detect and Investigate Threats with Security Command Center | GSP1125
 ### ☁️ Run the Code in Cloud Shell:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/devcode/Google-Cloud-Arcade/main/Detect%20and%20Investigate%20Threats%20with%20Security%20Command%20Center/devcode.sh
-sudo chmod +x devcode.sh
-./devcode.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Detect%20and%20Investigate%20Threats%20with%20Security%20Command%20Center/techcps1125.sh
+sudo chmod +x techcps1125.sh
+./techcps1125.sh
 ```
  ## Congratulations! You Completed the Lab Successfully! 🏆
 ## Thanks for watching! 💮
